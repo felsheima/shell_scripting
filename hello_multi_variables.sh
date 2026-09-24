@@ -1,0 +1,6 @@
+#!/bin/bash
+
+HELLO_VARIABLE="Hello"
+WORLD_VARIABLE="World!"
+
+echo $HELLO_VARIABLE $WORLD_VARIABLE 

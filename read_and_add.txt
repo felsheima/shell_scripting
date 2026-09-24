@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#Add two numbers that a user inputs 
+
+echo -n "Enter two numbers seperated by spaces: "
+read num1 num2 
+
+NUMS=$(($num1 + $num2))
+
+echo "The sum of your two numbers is $NUMS"
+
+{
+    read firstline
+    read secondline
+}< read_and_add.txt
+
+echo $firstline
+echo $secondline
+
