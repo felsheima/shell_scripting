@@ -93,15 +93,12 @@ The repository also includes scripts and data files used for experimenting with 
 
 | File                           | Description                                             |
 | ------------------------------ | ------------------------------------------------------- |
-| `alice.txt`                    | Text data used with `sed`/text-processing exercises     |
 | `pretend_data.csv`             | Sample CSV data for data-processing exercises           |
 | `read_and_add.txt`             | Supporting input data                                   |
 | `du.json`                      | JSON-formatted data                                     |
 | `braveheart.sh`                | Shell scripting exercise involving text/data processing |
 | `random_assignment_july_14.sh` | Script developed for an assignment/exercise             |
 | `debugging_practic.sh`         | Script used for debugging practice                      |
-| `shell_scripts.tar.xz`         | Archived collection of shell scripts                    |
-| `#multarg.sh#`                 | Backup/version of `multarg.sh`                          |
 | `README.md`                    | Repository documentation                                |
 
 ## Tools and Commands Practiced
