@@ -150,7 +150,7 @@ Working through these scripts provided practical experience with:
 
 ## Repository Status
 
-This repository is an ongoing collection of my shell scripting work. As I continue developing my Linux, networking, cybersecurity, and system-administration skills, additional scripts and projects may be added.
+This repository is an ongoing collection of my shell scripting work. As I continue developing my Linux, networking, cybersecurity, and system administration skills, additional scripts and projects may be added.
 
 
 
