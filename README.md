@@ -2,7 +2,7 @@
 
 This repository contains shell scripting programs and exercises I developed throughout my master's program. The scripts cover a range of topics including Bash scripting, text processing, file and directory management, regular expressions, functions, arrays, conditionals, loops, process management, networking, and system administration.
 
-The repository also includes scripts and data files used for experimenting with and practicing tools such as `sed`, `awk`, `grep`, `find`, `ssh`, `nc`, and other Unix/Linux command-line utilities.
+The repository also includes scripts and data files used for experimenting with and practicing tools such as `sed`, `awk`, `grep`, `find`, `ssh`, `nc`, and other Unix/Linux command line utilities.
 
 ## Topics Covered
 
@@ -19,12 +19,12 @@ The repository also includes scripts and data files used for experimenting with 
 * Subshells
 * Text processing with `sed` and `awk`
 * CSV parsing and data processing
-* Log-file analysis
+* Log file analysis
 * Networking and host discovery
 * URL extraction and validation
 * Automation and backup scripts
 * Debugging shell scripts
-* Working with command-line utilities
+* Working with command line utilities
 
 ## Scripts
 
@@ -42,7 +42,7 @@ The repository also includes scripts and data files used for experimenting with 
 | `factorial.sh`               | Calculates a factorial using shell scripting            |
 | `sum_unkown_numbers.sh`      | Calculates the sum of an unspecified number of values   |
 | `mult.sh`                    | Performs multiplication operations                      |
-| `multarg.sh`                 | Works with multiple command-line arguments              |
+| `multarg.sh`                 | Works with multiple command line arguments              |
 | `conditional_combination.sh` | Demonstrates combining conditional expressions          |
 
 ### Variables, Strings, and Arrays
@@ -53,7 +53,7 @@ The repository also includes scripts and data files used for experimenting with 
 | `string_stuff.sh` | String manipulation exercises                  |
 | `stringcheck.sh`  | Checks and evaluates string values             |
 | `stringtest.sh`   | Practice with string comparisons and testing   |
-| `test_regex.sh`   | Demonstrates regular-expression testing        |
+| `test_regex.sh`   | Demonstrates regular expression testing        |
 
 ### Files and Directories
 
@@ -61,16 +61,16 @@ The repository also includes scripts and data files used for experimenting with 
 | ------------------- | ------------------------------------------------- |
 | `checkpaths.sh`     | Checks file and directory paths                   |
 | `countfiles.sh`     | Counts files in a directory or specified location |
-| `countthes.sh`      | File-counting and text-processing exercise        |
+| `countthes.sh`      | File counting and text processing exercise        |
 | `find_exec.sh`      | Uses `find` to locate files and execute commands  |
 | `make_links.sh`     | Creates symbolic or filesystem links              |
-| `backup_scripts.sh` | Automates backup-related tasks                    |
+| `backup_scripts.sh` | Automates backup related tasks                    |
 
 ### Text Processing
 
 | Script            | Description                                      |
 | ----------------- | ------------------------------------------------ |
-| `alice.sed`       | `sed` commands and text-processing exercises     |
+| `alice.sed`       | `sed` commands and text processing exercises     |
 | `awk_parser.sh`   | Parses and processes structured text using `awk` |
 | `awk_csv.sh`      | Processes CSV data using `awk`                   |
 | `extract_urls.sh` | Extracts URLs from text                          |
@@ -134,7 +134,7 @@ Throughout these exercises, I worked with a variety of Unix/Linux command-line t
 
 The purpose of this repository is to document my progression and hands-on experience with shell scripting throughout my master's program.
 
-Rather than representing a single application, this repository is a collection of exercises, experiments, assignments, and scripts that demonstrate how I have used shell scripting to automate tasks, manipulate data, interact with files and processes, analyze logs, and perform basic networking and system-administration tasks.
+Rather than representing a single application, this repository is a collection of exercises, experiments, assignments, and scripts that demonstrate how I have used shell scripting to automate tasks, manipulate data, interact with files and processes, analyze logs, and perform basic networking and system administration tasks.
 
 ## What I Learned
 
@@ -147,18 +147,14 @@ Working through these scripts provided practical experience with:
 5. **Writing functions** to organize shell scripts into reusable components.
 6. **Using conditionals and loops** to control program execution.
 7. **Managing processes** and understanding how commands execute in the Unix/Linux environment.
-8. **Analyzing system logs**, including SSH-related logs.
-9. **Performing basic network-related tasks** using command-line networking tools.
+8. **Analyzing system logs**, including SSH related logs.
+9. **Performing basic network related tasks** using command-line networking tools.
 10. **Debugging shell scripts** and identifying problems in script logic and execution.
 
 ## Repository Status
 
 This repository is an ongoing collection of my shell scripting work. As I continue developing my Linux, networking, cybersecurity, and system-administration skills, additional scripts and projects may be added.
 
----
 
-**Language:** Bash / Shell
-**Program:** Master's Program
-**Repository:** `shell_scripting`
 
 
